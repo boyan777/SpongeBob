@@ -1,0 +1,21 @@
+*.pth
+*.pt
+*.bin
+pretrain_out/
+out_grpo/
+swanlog/
+nohup.out
+*.log
+data/
+dataset/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# python cache
+__pycache__/
+*.pyc
+
+# stray zero-width dir (seen in this repo)
+$'\342\200\213'/
